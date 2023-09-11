@@ -1,0 +1,10 @@
+{
+  "development": {
+    "database": "sequelize",
+    "dialect": "postgres",
+    "username": "prisma",
+    "password": "prisma",
+    "host": "localhost",
+    "port": 5432
+  }
+}
